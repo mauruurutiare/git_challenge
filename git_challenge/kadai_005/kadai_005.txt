@@ -1,0 +1,10 @@
+ Author: mauruurutiare <mioyamada524@gmail.com>
+Date:   Sun Feb 2 17:25:07 2025 +0900
+
+    日本語訳を追記
+
+commit d59e9fb2ee802319e1c085bc79e07a8788c37893
+Author: mauruurutiare <mioyamada524@gmail.com>
+Date:   Sun Feb 2 17:21:52 2025 +0900
+
+    hello_world.txtを追加追加
